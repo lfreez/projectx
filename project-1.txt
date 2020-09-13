@@ -6,3 +6,6 @@ test text 4
 moving to new branch
 
 new branch copy
+
+master branch copy
+
