@@ -9,3 +9,5 @@ new branch copy
 
 master branch copy
 
+both master and new branch
+
